@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1620290015 source:e:\hangmanproject1.1\hangman(btl)\draw.cpp
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+	"draw.h"
+	<conio.h>
+
+1620290015 e:\hangmanproject1.1\hangman(btl)\draw.h
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+
+1620144376 source:e:\hangmanproject1.1\hangman(btl)\guesser.cpp
+	<bits/stdc++.h>
+	"guesser.h"
+	"draw.h"
+	"util.h"
+	"mode.h"
+
+1619844151 e:\hangmanproject1.1\hangman(btl)\guesser.h
+	<bits/stdc++.h>
+
+1619017397 e:\hangmanproject1.1\hangman(btl)\util.h
+	<bits/stdc++.h>
+
+1620290015 e:\hangmanproject1.1\hangman(btl)\mode.h
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+
+1620289456 e:\hangmanproject1.1\hangman(btl)\word.h
+	<bits/stdc++.h>
+
+1620147283 source:e:\hangmanproject1.1\hangman(btl)\main.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	<conio.h>
+	"mode.h"
+
+1620290910 source:e:\hangmanproject1.1\hangman(btl)\mode.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+	"mode.h"
+	"guesser.h"
+
+1619016994 source:e:\hangmanproject1.1\hangman(btl)\util.cpp
+	<bits/stdc++.h>
+
+1620289456 source:e:\hangmanproject1.1\hangman(btl)\word.cpp
+	<bits/stdc++.h>
+	"word.h"
+
+1620491416 source:e:\hangmanthegame\hangmanthegame\draw.cpp
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+	"draw.h"
+	<conio.h>
+
+1620290015 e:\hangmanthegame\hangmanthegame\draw.h
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+
+1620144376 source:e:\hangmanthegame\hangmanthegame\guesser.cpp
+	<bits/stdc++.h>
+	"guesser.h"
+	"draw.h"
+	"util.h"
+	"mode.h"
+
+1619844151 e:\hangmanthegame\hangmanthegame\guesser.h
+	<bits/stdc++.h>
+
+1619017397 e:\hangmanthegame\hangmanthegame\util.h
+	<bits/stdc++.h>
+
+1620490155 e:\hangmanthegame\hangmanthegame\mode.h
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+
+1620490155 e:\hangmanthegame\hangmanthegame\word.h
+	<bits/stdc++.h>
+
+1620490155 source:e:\hangmanthegame\hangmanthegame\main.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	<conio.h>
+	"mode.h"
+
+1620490155 source:e:\hangmanthegame\hangmanthegame\mode.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+	"mode.h"
+	"guesser.h"
+
+1619016994 source:e:\hangmanthegame\hangmanthegame\util.cpp
+	<bits/stdc++.h>
+
+1620490364 source:e:\hangmanthegame\hangmanthegame\word.cpp
+	<bits/stdc++.h>
+	"word.h"
+
+1621167544 source:e:\20021280_nguyenthanhan\hangmanthegame\draw.cpp
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+	"draw.h"
+	<conio.h>
+
+1620290015 e:\20021280_nguyenthanhan\hangmanthegame\draw.h
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+
+1620144376 source:e:\20021280_nguyenthanhan\hangmanthegame\guesser.cpp
+	<bits/stdc++.h>
+	"guesser.h"
+	"draw.h"
+	"util.h"
+	"mode.h"
+
+1619844151 e:\20021280_nguyenthanhan\hangmanthegame\guesser.h
+	<bits/stdc++.h>
+
+1619017397 e:\20021280_nguyenthanhan\hangmanthegame\util.h
+	<bits/stdc++.h>
+
+1620490155 e:\20021280_nguyenthanhan\hangmanthegame\mode.h
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+
+1620490155 e:\20021280_nguyenthanhan\hangmanthegame\word.h
+	<bits/stdc++.h>
+
+1621167544 source:e:\20021280_nguyenthanhan\hangmanthegame\main.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	<conio.h>
+	"mode.h"
+
+1621167544 source:e:\20021280_nguyenthanhan\hangmanthegame\mode.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+	"mode.h"
+	"guesser.h"
+
+1619016994 source:e:\20021280_nguyenthanhan\hangmanthegame\util.cpp
+	<bits/stdc++.h>
+
+1620490364 source:e:\20021280_nguyenthanhan\hangmanthegame\word.cpp
+	<bits/stdc++.h>
+	"word.h"
+
+1620144376 source:e:\20021280_nguyenthanhan\hangman\guesser.cpp
+	<bits/stdc++.h>
+	"guesser.h"
+	"draw.h"
+	"util.h"
+	"mode.h"
+
+1619844151 e:\20021280_nguyenthanhan\hangman\guesser.h
+	<bits/stdc++.h>
+
+1620290015 e:\20021280_nguyenthanhan\hangman\draw.h
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+
+1619017397 e:\20021280_nguyenthanhan\hangman\util.h
+	<bits/stdc++.h>
+
+1620490155 e:\20021280_nguyenthanhan\hangman\mode.h
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+
+1620490155 e:\20021280_nguyenthanhan\hangman\word.h
+	<bits/stdc++.h>
+
+1621167544 source:e:\20021280_nguyenthanhan\hangman\main.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	<conio.h>
+	"mode.h"
+
+1621167544 source:e:\20021280_nguyenthanhan\hangman\mode.cpp
+	<ctime>
+	<cctype>
+	<bits/stdc++.h>
+	"draw.h"
+	"word.h"
+	"mode.h"
+	"guesser.h"
+
+1619016994 source:e:\20021280_nguyenthanhan\hangman\util.cpp
+	<bits/stdc++.h>
+
+1620490364 source:e:\20021280_nguyenthanhan\hangman\word.cpp
+	<bits/stdc++.h>
+	"word.h"
+
+1621171151 source:e:\20021280_nguyenthanhan\hangman\draw.cpp
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+	"draw.h"
+	<conio.h>
+
